@@ -1,0 +1,1 @@
+import{M as e}from"./mermaid-parser.core-8QH7zEKG.js";export{e as createArchitectureServices};
